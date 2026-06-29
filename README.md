@@ -139,3 +139,41 @@ MIT License - For educational use only. See LICENSE file.
 ---
 > 🎓 Built by **sayan9168** | Cisco CEH | Python Developer  
 > 🔐 "With great power comes great responsibility"
+# 💀 Sayan Sec Tool
+
+> Advanced Security & Exploit Toolkit 
+
+![GitHub repo size](https://img.shields.io/github/repo-size/sayan9168/sayan-sec-tool)
+![GitHub stars](https://img.shields.io/github/stars/sayan9168/sayan-sec-tool?style=social)
+![License](https://img.shields.io/badge/License-MIT-red.svg)
+
+## 📌 About
+**Sayan Sec Tool** is a powerful custom-built security toolkit designed for advanced penetration testing, vulnerability assessment, and exploit development. Built for hackers, by a hacker.
+
+## 🚀 Features
+- 🔥 Advanced exploit generation & payload customization
+- 🌐 Network scanning, enumeration & recon
+- 🕵️‍♂️ Stealth mode operations & evasion techniques
+- ⚡ Fast and automated vulnerability scanning
+
+## 🛠️ Installation
+```bash
+git clone https://github.com/sayan9168/sayan-sec-tool.git
+cd sayan-sec-tool
+# Add your installation commands here
+```
+
+## 📖 Usage
+```bash
+# Add your tool's execution commands here
+```
+
+## 📞 Contact & Socials
+Got questions, want to collaborate, or need a custom exploit? Hit me up!
+
+- 📧 **Email:** [sm6881164@gmail.com](mailto:sm6881164@gmail.com)
+- 📸 **Instagram:** [@_sayyyyan](https://instagram.com/_sayyyyan)
+- 💻 **GitHub:** [sayan9168](https://github.com/sayan9168)
+
+---
+⚠️ **Disclaimer:** *This tool is strictly for educational and authorized penetration testing purposes only. The developer is not responsible for any misuse or illegal activities. Hack responsibly!*
